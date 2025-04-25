@@ -1,0 +1,26 @@
+/* General body styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the heading */
+h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2.5em;
+    margin-top: 50px;
+    text-transform: uppercase;
+}
+
+/* Optional: Add a background color to the body */
+body {
+    background-color: #e8f0fe;
+}
+
+/* Add some padding around the body */
+body {
+    padding: 20px;
+}
